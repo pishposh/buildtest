@@ -1,0 +1,5 @@
+.DS_Store
+ignored-build-detritus
+ignored-build-detritus-dir
+/node_modules
+/tests/node_modules
